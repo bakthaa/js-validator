@@ -1,0 +1,25 @@
+{
+  "name": "js-validator",
+  "version": "1.0.0",
+  "description": "Javascript library for input validation and format values",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "javascript",
+    "library",
+    "input",
+    "validation",
+    "framework",
+    "format"
+  ],
+  "author": "baktha",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "babel-jest": "^26.0.1",
+    "jest": "^26.0.1"
+  }
+}
